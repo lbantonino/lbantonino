@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lbantonino
-- 👀 I’m interested in web developement & technology
+- 👀 I’m interested in web devlopement & technology
 - 🌱 I’m currently learning the web developpement @BeCode in Brussels
 - 💞️ I’m looking to collaborate on web & software developpement
 - 📫 How to reach me : antonino.lobianco@outlook.com
