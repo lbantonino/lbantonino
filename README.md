@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lbantonino
 - 👀 I’m interested in web & software developpement
-- 🌱 I’m currently learning the web developpement
+- 🌱 I’m currently learning the web developpement @BeCode in Brussels
 - 💞️ I’m looking to collaborate on web & software developpement
 - 📫 How to reach me : antonino.lobianco@outlook.com
 
