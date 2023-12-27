@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lbantonino
+- 👋 Hello, I’m @lbantonino
 - 👀 I’m interested in web devlopement & technology
 - 🌱 I’m currently learning the web developpement @BeCode in Brussels
 - 💞️ I’m looking to collaborate on web & software developpement
