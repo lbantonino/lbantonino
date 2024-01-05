@@ -1,5 +1,10 @@
+---
+<br>
+
 <h1>@lbantonino 👨🏻‍💻</h1>
 <h3>&nbsp;&nbsp; A passionate fulls-stack developer,specialised in frontend, from Brussels</h3>
+
+<br>
 
 ---
 <br>
