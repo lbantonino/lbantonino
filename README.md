@@ -19,8 +19,8 @@
 
 <h3 align="left">CONNECT WITH ME</h3>
 <p align="left"> 
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/antonino-lo-bianco-605765188/" target="blank"><img align="center" src="svg/in.svg" alt="https://www.linkedin.com/in/antonino-lo-bianco-605765188/" width="43" /></a> &nbsp;
-<a href="https://dev.to/lbantonino" target="blank"><img align="center" src="svg/dev.svg" alt="lbantonino"width="43" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/antonino-lo-bianco-605765188/" target="blank"><img align="center" src="svg/in.svg" alt="https://www.linkedin.com/in/antonino-lo-bianco-605765188/" width="45" /></a> &nbsp;
+<a href="https://dev.to/lbantonino" target="blank"><img align="center" src="svg/dev.svg" alt="lbantonino"width="45" /></a>
 </p>
 
 ---
