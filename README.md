@@ -5,7 +5,7 @@
 
 <br>
 
-- 💻 I’m currently working on **React Native and Java**
+- 💻 I’m currently working on **React & React Native and Java**
 
 - 📚 I’m currently learning **Web Development at @BeCode in Brussels (www.becode.org)**
 
