@@ -1,12 +1,8 @@
----
-<br>
-
 <h1>@lbantonino 👨🏻‍💻</h1>
 <h3>&nbsp;&nbsp;FRONTEND DEVELOPER, SPECIALISED IN REACT</h3>
 
-<br>
-
 ---
+
 <br>
 
 - 💻 I’m currently working on **React Native and Java**
