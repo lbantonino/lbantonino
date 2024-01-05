@@ -1,30 +1,26 @@
-<h1>Hi 👋, I'm @lbantonino</h1>
+<h1>@lbantonino 👨🏻‍💻</h1>
+<h3>&nbsp;&nbsp; A passionate fulls-stack developer,specialised in frontend, from Brussels</h3>
+
+---
+<br>
+
+- 💻 I’m currently working on **React & React Native and Java**
+
+- 📚 I’m currently learning **Web Development at @BeCode in Brussels (www.becode.org)**
+
+- <img src="svg/logo_antonino.svg" width="17"> PORTFOLIO: **https://lbantonino.vercel.app/**
+
+- ✉️ MAIL:  **antonino.lobianco@outlook.com**
+  
+- 🟦 LINKEDIN : **https://www.linkedin.com/in/antonino-lo-bianco-605765188/**
+
+- ⬛️ DEV : **[https://www.linkedin.com/in/antonino-lo-bianco-605765188/](https://dev.to/lbantonino)**
+
+<br>
 
 ---
 
-
-<h3>A passionate fulls-stack developer,specialised in frontend, from Brussels</h3>
-
-- 🔭 I’m currently working on **React & React Native and Java**
-
-- 🌱 I’m currently learning **Web Development at @BeCode in Brussels (www.becode.org)**
-
-- 👨‍💻 REPOSITORIES : [https://github.com/lbantonino?tab=repositories](https://github.com/lbantonino?tab=repositories)
-
-- 📫 MAIL:  **antonino.lobianco@outlook.com**
-
-- <img src="svg/logo_antonino.svg" width="15"> PORTFOLIO: **https://lbantonino.vercel.app/**
-
----
-
-<h3 align="left">CONNECT WITH ME</h3>
-<p align="left"> 
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/antonino-lo-bianco-605765188/" target="blank"><img align="center" src="svg/in.svg" alt="https://www.linkedin.com/in/antonino-lo-bianco-605765188/" width="45" /></a> &nbsp;
-<a href="https://dev.to/lbantonino" target="blank"><img align="center" src="svg/dev.svg" alt="lbantonino"width="45" /></a>
-</p>
-
----
-
+<br>
 
 <h3 align="left">SKILLS</h3>
 <p align="left"> 
