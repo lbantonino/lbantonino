@@ -28,7 +28,5 @@
 
 <h3 align="left">SKILLS</h3>
 <p align="left"> 
-
-<p>
 <img src="svg/skills.png" width="700">
 </p>
