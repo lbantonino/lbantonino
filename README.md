@@ -2,14 +2,14 @@
 <br>
 
 <h1>@lbantonino 👨🏻‍💻</h1>
-<h3>&nbsp;&nbsp; A passionate fulls-stack developer,specialised in frontend, from Brussels</h3>
+<h3>&nbsp;&nbsp;FRONTEND DEVELOPER, SPECIALISED IN REACT</h3>
 
 <br>
 
 ---
 <br>
 
-- 💻 I’m currently working on **React & React Native and Java**
+- 💻 I’m currently working on **React Native and Java**
 
 - 📚 I’m currently learning **Web Development at @BeCode in Brussels (www.becode.org)**
 
