@@ -9,7 +9,7 @@
 
 - 📚 I’m currently learning **Web Development at @BeCode in Brussels (www.becode.org)**
 
-- <img src="svg/logo_antonino.svg" width="17"> PORTFOLIO: **https://lbantonino.vercel.app/**
+- <img src="svg/logo_antonino.svg" width="17"> PORTFOLIO: **https://lbantonino.com/**
 
 - ✉️ MAIL:  **antonino.lobianco@outlook.com**
   
