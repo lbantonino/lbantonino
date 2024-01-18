@@ -13,9 +13,9 @@
 
 - ✉️ MAIL:  **antonino.lobianco@outlook.com**
   
-- 🟦 LINKEDIN : **https://www.linkedin.com/in/antonino-lo-bianco-605765188/**
+- 🟦 LINKEDIN : **https://www.linkedin.com/in/antoninolobianco/**
 
-- ⬛️ DEV : **[https://www.linkedin.com/in/antonino-lo-bianco-605765188/](https://dev.to/lbantonino)**
+- ⬛️ DEV : **https://dev.to/lbantonino**
 
 <br>
 
