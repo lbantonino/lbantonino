@@ -7,7 +7,7 @@
 
 - 💻 I’m currently working on **React & React Native**
 
-- 📚 I’m currently learning **Web Development at @BeCode in Brussels (www.becode.org)**
+- 📚 I’m currently learning **Web Development**
 
 - <img src="svg/logo_antonino.svg" width="17"> PORTFOLIO: **https://lbantonino.com/**
 
