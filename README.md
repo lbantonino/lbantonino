@@ -1,13 +1,10 @@
 <h1>@lbantonino 👨🏻‍💻</h1>
-<h3>&nbsp;&nbsp;FRONTEND DEVELOPER, SPECIALISED IN REACT</h3>
+<h3>&nbsp;&nbsp;FULL STACK & MOBILE DEVELOPPER</h3>
 
 ---
 
 <br>
 
-- 💻 I’m currently working on **React & React Native**
-
-- 📚 I’m currently learning **Web Development**
 
 - <img src="svg/logo_antonino.svg" width="17"> PORTFOLIO: **https://lbantonino.com/**
 
