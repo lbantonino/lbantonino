@@ -10,8 +10,6 @@
   
 - 🟦 LINKEDIN : **https://www.linkedin.com/in/antoninolobianco/**
 
-- ⬛️ DEV : **https://dev.to/lbantonino**
-
 <br>
 
 ---
