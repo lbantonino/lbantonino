@@ -6,7 +6,7 @@
 <br>
 
 
-- <img src="svg/logo_antonino.svg" width="17"> PORTFOLIO: **https://lbantonino.com/**
+- <img src="svg/logo_antonino.svg" width="17"> OBSELETE PORTFOLIO: **https://lbantonino.com/** (I am working on a new one)
 
 - ✉️ MAIL:  **antonino.lobianco@outlook.com**
   
