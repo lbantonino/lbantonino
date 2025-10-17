@@ -15,13 +15,3 @@
 <br>
 
 ---
-<br>
-
-<h2 align="left">SKILLS</h2>
-<p align="left"> 
-<img src="svg/skills.png" width="600">
-</p>
-
-<br>
-
----
