@@ -10,7 +10,7 @@ Can I said that I'm still  a junior ...
 
 - ✉️ MAIL:  **antonino.lobianco@outlook.com**
   
-- 🟦 LINKEDIN : **https://www.linkedin.com/in/antoninolobianco/**
+- 🟦 Portfolio : **https://lbantonino.com/**
 
 <br>
 
