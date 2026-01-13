@@ -1,5 +1,7 @@
 <h1>@lbantonino 👨🏻‍💻</h1>
-<h3>&nbsp;&nbsp;FULL STACK & MOBILE DEVELOPPER</h3>
+<h3>&nbsp;&nbsp;WEB DEVELOPPER</h3>
+
+Can I said that I still am a junior ...
 
 ---
 
